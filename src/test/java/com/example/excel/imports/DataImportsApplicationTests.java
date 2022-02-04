@@ -1,4 +1,4 @@
-package com.example.data.imports.dataimports;
+package com.example.excel.imports;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
